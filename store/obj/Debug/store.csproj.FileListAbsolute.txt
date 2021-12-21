@@ -1,0 +1,2 @@
+C:\Users\Rohit\source\repos\store\store\obj\Debug\store.csprojAssemblyReference.cache
+C:\Users\Rohit\source\repos\store\store\obj\Debug\store.csproj.CoreCompileInputs.cache
